@@ -6,6 +6,7 @@ paramaters = {
 
     "asset" : "ETH-USD",
     "time_frame" : "5m",
+    "time_period" : "60d",
     "tp" : 0.5,
     "sl" : 0.4,
     "ema_list" : [9, 21, 55], # [short_ema, med_ema, high_ema]
